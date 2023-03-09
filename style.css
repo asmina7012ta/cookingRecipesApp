@@ -24,7 +24,7 @@
     transform: translate(-50%, -50%);
     left: 50%;
     top: 50%;
-    display: flex;border-radius: 0.6em;
+    border-radius: 0.6em;
   }
   .search-container {
     width: 100%;
@@ -125,5 +125,4 @@
     .container {
       font-size: 14px;
     }
-   
   }
